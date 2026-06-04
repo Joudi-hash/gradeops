@@ -3,7 +3,7 @@
 * Shreya Sahoo
 * Ganji Manasa Sanjana
   
-# 📊 GradeOps – AI Powered Answer Sheet Grading Platform
+# 📊 GradeOps  –  AI Powered Answer Sheet Grading Platform
 
 GradeOps is an AI-powered full-stack system that automates evaluation of student answer sheets using Vision-Language Models.  
 It generates automatic scoring, structured feedback, and stores results for analysis.
