@@ -1,4 +1,8 @@
-
+## 👥 Team Members
+* Joudi Warisa
+* Shreya Sahoo
+* Ganji Manasa Sanjana
+* 
 # 📊 GradeOps – AI Powered Answer Sheet Grading Platform
 
 GradeOps is an AI-powered full-stack system that automates evaluation of student answer sheets using Vision-Language Models.  
